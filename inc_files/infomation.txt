@@ -1,0 +1,5 @@
+ここに表示されるテキストは inc_files ディレクトリ内の<BR />
+infomation.txt というファイルに記述されています。<BR />
+トップページへ PHP から include() で読み込まれていますので
+<p align="center"><font color="#FF0000"><?=date("現在時刻 Y年m月d日(D) H:i")?></font></p>
+のように PHP スクリプトを記述することもできます。
